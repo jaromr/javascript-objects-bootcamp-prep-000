@@ -1,1 +1,2 @@
-var playlist = Object('Taylor Swift': 'Fearless')
+var playlist = {'Taylor Swift': 'Fearless'}
+
